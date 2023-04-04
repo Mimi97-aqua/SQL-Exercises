@@ -8,7 +8,7 @@ This repository contains solutions to various SQL exercises, both from YouTube v
 * [Setup](#setup)
 
 ### General Info
-This repository contains answers to the  SQL exercises from
+This repository contains answers to the  SQL exercises from:
 
 1. [Learn SQL in 60 minutes](https://youtu.be/p3qvj9hO_Bo)
  
@@ -32,5 +32,5 @@ I did this project using:
 ### Setup
 Run: 
 ```
-$ git clone https://github.com/Mimi97-aqua/SQL-Exercises-.git
+$ git clone https://github.com/Mimi97-aqua/SQL-Exercises.git
 ```
