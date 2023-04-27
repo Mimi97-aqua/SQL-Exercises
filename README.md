@@ -11,7 +11,7 @@ This repository contains solutions to various SQL exercises, both from YouTube v
 This repository contains answers to the  SQL exercises from:
 
 1. [Learn SQL in 60 minutes](https://youtu.be/p3qvj9hO_Bo)
- 
+
  **Note:** The questions from this tutorial can be found [here](https://github.com/WebDevSimplified/Learn-SQL)
  
 2. [MySQL Tutorial for Beginners](https://youtu.be/7S_tz1z_5bA)
@@ -22,12 +22,12 @@ This repository contains answers to the  SQL exercises from:
 
 ### Requirements
 **Note:** These are specific only to the _Windows OS_. 
-If you're running a different OS, read this: https://dev.mysql.com/doc/mysql-getting-started/en/
+If you're running a different OS, read [this.](https://dev.mysql.com/doc/mysql-getting-started/en/)
 
 I did this project using:
-* Operating System: Windows 11
 * MySQL Server 8.0
 * MySQL Workbench 8.0 CE
+* OS: Windows 11
 
 ### Setup
 Run: 
