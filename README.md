@@ -1,4 +1,4 @@
-# Basic MySQL exercises
+# Basic MySQL Exercises
 This repository contains solutions to various SQL exercises, both from YouTube videos and other sources.
 
 ## Table of Contents
